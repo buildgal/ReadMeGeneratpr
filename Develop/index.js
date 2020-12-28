@@ -36,15 +36,19 @@ const userQuestion = () => {
             type: 'input',
             name: 'test',
             message:'What are the test instructions?'
-        }
-
-        ,
+        },
 
         {
             type: 'list',
             name: 'license',
             message:'What license are you using?',
             choices: ["MIT","Apache-2.0","GPL-3.0","BSD-2-Clause","BSD-3-Clause","BSD-4-Clause"]
+        },
+
+        {
+            type: 'input',
+            name: 'username',
+            message:'What is your GitHub username?'
         }
     ])
 }

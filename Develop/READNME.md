@@ -1,5 +1,5 @@
-# dfsdf
-  sdfsd
+# Generator Homework 
+  The purpose of this app is to generate a read me through the command line
 
   #### TABLE OF CONTENTS 
   * [Installation](#Installation)
@@ -12,31 +12,29 @@
 
 
   ## Installation
-  sdfsdf
+  npm i inquirer
 
   ## Usage Information
-   sdfsdf
+   The application created a Read Me file for any assignment 
 
   ## Contribution 
-  sdfsdf
+  Create a unique branch and a pull request 
 
   ## How to Test 
-  sdfsdf
+  Test on your local device using the command line
 
   ## License 
-  MIT
+  BSD-2-Clause
 
   ## GitHub Username 
-  @sdfsdfs
+  @buildGal
 
   ## Contact Me 
-  Email: [sdfsdf]
+  Email: [gjaquelin7@outlook.com]
 
-  
-
-
-
-
-  
+  ## Example of the APP Running 
+  Recording of the app 
+  [./Develop/ReadMeGeneratpr-1609219123120.gif]
+ 
 
 

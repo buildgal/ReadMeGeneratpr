@@ -1,5 +1,3 @@
-# ReadMeGenerator 
-
 # Generator Homework
   This application generates a read me through the command line.
 

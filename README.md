@@ -15,22 +15,22 @@
   ## Installation
   npm i inquirer
 
-  ## Usage Information
+  ## Usage
    This application is used to create read me for repos.
 
   ## Contribution 
   Create a unique branch and create a pull request. 
 
-  ## How to Test 
+  ## Test
   Run on your local device to test. 
 
   ## License 
   MIT
 
-  ## GitHub Username 
+  ## GitHub
   @buildGal
 
-  ## Contact Me 
+  ## Contact
   Email: [gjaquelin7@outlook.com]
 
   ## Recording

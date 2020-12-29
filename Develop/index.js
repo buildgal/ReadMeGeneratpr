@@ -1,4 +1,5 @@
 const inquirer = require ("inquirer");
+const fs = require('fs');
 
 const userQuestion = () => {
     return inquirer.prompt([
@@ -58,6 +59,12 @@ const userQuestion = () => {
         }
 
     ])
+    .then((data) => {
+        writeToFile("readMe.json",data);
+        //this is where the code is breaking
+    })
+    
+    
 }
     
 
@@ -69,6 +76,9 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+    err ? console.log(err) : console.log('Success!')
+  );
 }
 
 // function to initialize program

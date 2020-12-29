@@ -11,6 +11,7 @@ function generateMarkdown(data) {
   * [License](#License)
   * [GitHub](#GitHub)
   * [Contact](#Contact)
+  * [Recording](#Recording)
 
 
   ## Installation
@@ -34,10 +35,8 @@ function generateMarkdown(data) {
   ## Contact Me 
   Email: [${data.email}]
 
-  ## Example of the APP Running 
-  Recording of the app 
-  [./Develop/ReadMeGeneratpr-1609219123120.gif]
- 
+  ## Recording
+  ![](ReadMeGeneratpr-1609219123120.gif)
 
 
 `;
